@@ -8,6 +8,8 @@ Report of all servers can be downloaded as excel table or pdf document.
 
 ## Technological stack
 
+Database: MySql
+
 Backend: Spring Boot
 
 Frontend: Angular
